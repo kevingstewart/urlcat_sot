@@ -1,3 +1,3 @@
-https://www.stu.com/ { type exact-match }
-https://www.vwx.com/ { type exact-match }
-https://www.yza.com/ { type exact-match }
+https://www.abc.com/ { type exact-match }
+https://www.def.com/ { type exact-match }
+https://www.ghi.com/ { type exact-match }
