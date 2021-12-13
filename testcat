@@ -1,3 +1,3 @@
-https://www.abc.com/ { type exact-match }
-https://www.def.com/ { type exact-match }
-https://www.ghi.com/ { type exact-match }
+https://www.jkl.com/ { type exact-match }
+https://www.mno.com/ { type exact-match }
+https://www.pqr.com/ { type exact-match }
